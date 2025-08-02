@@ -1,12 +1,12 @@
 # SupplyConquest – Version 1.0.0 (Test Release)
-SupplyConquest is a turn-based multiplayer strategy game for up to 6 players. Collect resources like 🗡 swords, 🏹 bows, 🛡 shields, and 🪖 soldiers, conquer states on the map, and expand your control. The player who owns all states wins the game!
+SupplyConquest is an **Android** turn-based multiplayer strategy game for up to 6 players. Collect resources like 🗡 swords, 🏹 bows, 🛡 shields, and 🪖 soldiers, conquer states on the map, and expand your control. The player who owns all states wins the game!
 
 🔹 Key Features:
 Built with React + Vite + Tailwind CSS
 
 No backend or database – entirely client-side
 
-Includes an Android build
+** Includes an Android build (APK available) **
 
 Fully responsive UI
 
