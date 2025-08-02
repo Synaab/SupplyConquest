@@ -6,7 +6,7 @@ Built with React + Vite + Tailwind CSS
 
 No backend or database – entirely client-side
 
-** Includes an Android build (APK available) **
+****Includes an Android build (APK available)****
 
 Fully responsive UI
 
